@@ -1,0 +1,18 @@
+img{
+    width:190px;
+    height:110px;
+    margin :0px;
+
+}
+
+
+.logosec{
+    display: flex;
+    align-items: center;
+    
+}
+a span{
+    color :darkgrey;
+    text-decoration: underline;
+}
+
